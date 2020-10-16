@@ -1,3 +1,6 @@
+/*
+ * An example of traditional function
+	* */
 function getSum (a, b) {
 	const sum = a + b;
 	return sum
